@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/data.dart';
 import 'package:news_app/model/articleModel.dart';
 import 'package:news_app/theme/theme.dart';
 import 'package:lorem_ipsum/lorem_ipsum.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 // String dateformat(final arg) {
 //   var dt = arg;
