@@ -7,6 +7,8 @@ UI KITS : https://figmaelements.com/news-app-ui-kit/
 
 for the homepage I probably to change that litle bit
 
-# here's the result that I've make :
+## here's the result that I've make :
 
-Coming soon :)
+![Homepage](/preview/homepage.jpg)
+
+![Article](/preview/article.jpg)
